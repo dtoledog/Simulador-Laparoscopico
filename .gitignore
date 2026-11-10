@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.claude/settings.json
+.claude/settings.local.json
+*.tmp
+# Imagen de referencia de terceros (derechos de autor): no subir
+image_0.png
+images/
+# Registro de la conversación: no se sube
+docs/conversacion.md
